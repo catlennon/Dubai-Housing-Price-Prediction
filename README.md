@@ -10,12 +10,20 @@ I prepared this Notebook as my first assignment for Graduate-Level Machine Learn
 - Identified minimum and maximum property prices, ranging from 220,000 to 35,000,000 AED.
 - Generated histograms to understand the distribution of quantitative features like property size, number of bedrooms, and bathrooms.
 
+![Histograms](images/histograms.png)
+
 ### 2. Geographical Scatterplot
 - Created a geographical scatterplot to visualize the spatial distribution of properties in Dubai, showing how locations affect property prices.
+
+![Geographical Scatterplot](images/scatterplot.png)
 
 ### 3. Correlation Analysis
 - Generated a correlation matrix and a correlation heatmap to analyze relationships between features. Key correlations were identified, such as the positive correlation between price and size in square feet.
 - Created additional derived features, like **bedrooms per bathroom**, to enhance model interpretability.
+
+![Correlation Matrix](images/correlation_matrix.png)
+
+![Size in Sq/Ft and Total Price](images/size_in_sqft_price.png)
 
 ### 4. Data Preparation
 - Dropped unnecessary columns, such as **price_per_sqft**, and split the dataset into training and test sets (80/20 split).
