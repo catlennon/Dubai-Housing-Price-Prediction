@@ -38,4 +38,9 @@ I prepared this Notebook as my first assignment for Graduate-Level Machine Learn
 - Evaluated model performance using RMSE and R² scores to understand prediction accuracy and model fit.
 - Compared models: Linear Regression and LASSO provided baseline results, while Random Forest Regression significantly outperformed both in terms of accuracy and feature importance.
 
- 
+## Summary
+- Explored the Dubai housing dataset to understand feature distributions and relationships.
+- Developed multiple predictive models, starting with Linear Regression and LASSO, and achieved significant improvements with Random Forest Regression.
+- Identified key features influencing housing prices, such as property size, number of bedrooms, and location.
+- Demonstrated skills in data exploration, feature engineering, model training, and evaluation.
+
